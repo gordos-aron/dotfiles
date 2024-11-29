@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "prettier.singleQuote": true
+}
