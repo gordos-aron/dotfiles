@@ -3,3 +3,5 @@
 	email = arondev94@gmail.com
 [core]
 	editor = code --wait
+	pager = cat
+	autocrlf = input
